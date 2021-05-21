@@ -30,7 +30,7 @@ public class FriendTagsAddon extends LabyModAddon {
     /**
      * The format of the friend tag
      */
-    private String friendFormat = "&lFriend";
+    private String friendFormat = "&9&lIch";
 
     /**
      * Represents if the server allows the addon
